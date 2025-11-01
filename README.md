@@ -112,6 +112,7 @@ Create a new file at:
 
 And add this 👇
 
+```
 name: Daily AI Tech News Agent
 
 on:
@@ -144,6 +145,7 @@ jobs:
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
         run: |
           python main.py
+```
 
 Then go to your repo → Settings → Secrets and Variables → Actions,
 and add:
