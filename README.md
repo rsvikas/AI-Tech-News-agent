@@ -102,8 +102,10 @@ Future Enhancements
   Auto-publish to a Notion dashboard or website
 
 Credits
+```
 Developed by Vikas R.S.
 rsvikas@gmail.com
+```
 
 GitHub Workflow (Daily Automation)
 
