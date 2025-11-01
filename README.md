@@ -103,7 +103,7 @@ Future Enhancements
 
 Credits
 Developed by Vikas R.S.
-A thinker, philosopher, and business analyst passionate about automation and real-world AI use cases.
+rsvikas@gmail.com
 
 GitHub Workflow (Daily Automation)
 
