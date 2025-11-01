@@ -19,7 +19,7 @@ Features
 
 
 Project Structure
-
+```
 AI-Tech-News-agent/
 │
 ├── config.py  Configuration settings and LLM prompts
@@ -32,7 +32,7 @@ AI-Tech-News-agent/
 ├── requirements.txt  Python dependencies
 ├── LICENSE  MIT License
 └── README.md  Project documentation
-
+```
 
  Installation
 
