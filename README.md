@@ -149,9 +149,9 @@ jobs:
 
 Then go to your repo → Settings → Secrets and Variables → Actions,
 and add:
- EMAIL_USER
- EMAIL_PASS
- EMAIL_TO
+- EMAIL_USER
+- EMAIL_PASS
+- EMAIL_TO
 
 This will allow GitHub to run your agent automatically every day and send the email report — all hosted on GitHub’s infrastructure (no local machine needed).
 
